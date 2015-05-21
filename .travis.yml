@@ -3,3 +3,5 @@ scala:
    - 2.10.4
 script:
    - sbt test
+notifications:
+  email: false
